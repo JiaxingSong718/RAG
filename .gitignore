@@ -1,5 +1,5 @@
 __pycache__
 .env1
-/Documents
-/DataBase
-/EmbeddingModel
+/Documents/*
+/DataBase/*
+/EmbeddingModel/*
