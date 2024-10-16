@@ -1,5 +1,8 @@
 __pycache__
 .env1
 /Documents/*
+!/Documents/.gitkeep
 /DataBase/*
+!/DataBase/.gitkeep
 /EmbeddingModel/*
+!/EmbeddingModel/.gitkeep
